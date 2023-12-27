@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UduakJoshua
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning PHP, JavaScrip and Laravel
-- 💞️ I’m looking to collaborate on any PHP JAVASCRIPT project as well as Laravel
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on any PHP Laravel project. 
 - 📫 You can reach me @ uduakjoshua@gmail.com
 
 <!---
