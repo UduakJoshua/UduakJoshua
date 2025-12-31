@@ -3,7 +3,7 @@
 I’m focused on **backend development** with PHP and Laravel. My goal is to become a solid Laravel backend developer and write clean, maintainable code.
 
 ## About Me
-- Currently learning **Laravel** and improving PHP skills.
+-  **Laravel** / **PHP** Developer.
 - Building practical web applications, including APIs and school management systems.
 - Contributed backend API logic for a team project (**ThriveAssist**).
 - I enjoy **teaching web development and digital literacy skills** to others.
