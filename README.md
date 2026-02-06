@@ -1,6 +1,6 @@
 # Uduak Joshua
 
-I’m focused on **backend development** with PHP and Laravel. My goal is to become a solid Laravel backend developer and write clean, maintainable code.
+I’m focused on **backend development** with PHP and Laravel. My goal is to become a solid FullStack and Laravel backend developer writing clean, maintainable code.
 
 ## About Me
 -  **Laravel** / **PHP** Developer.
