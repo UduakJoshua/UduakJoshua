@@ -1,7 +1,6 @@
 # Uduak Joshua
 
-I’m focused on **backend development** with PHP and Laravel. My goal is to become a solid FullStack and Laravel backend developer writing clean, maintainable code.
-
+I’m a PHP and Laravel backend developer focused on writing clean, maintainable, and efficient code. I’m continuously improving my FullStack development skills and enjoy building scalable web applications that solve real problems.
 ## About Me
 -  **Laravel** / **PHP** Developer.
 - Building practical web applications, including APIs and school management systems.
@@ -16,7 +15,7 @@ I’m focused on **backend development** with PHP and Laravel. My goal is to bec
 - RESTful APIs
 - Networking fundamentals
 - MS Excel
-- Basic HTML, CSS, JavaScript, Bootstrap
+- HTML, CSS, JavaScript, Bootstrap
 
 ## Current Projects
 - **EduKompiler**: School management system with CBT, results, student management, and e-learning modules.
